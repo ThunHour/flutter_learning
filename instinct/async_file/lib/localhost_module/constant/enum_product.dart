@@ -1,0 +1,1 @@
+enum ProductStatus { none, loading, success, error }

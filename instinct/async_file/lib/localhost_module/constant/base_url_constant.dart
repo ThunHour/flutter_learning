@@ -1,0 +1,16 @@
+const android = "http://10.0.2.2";
+const ios = "http://localhost";
+const os = android;
+const port = ":";
+const folder = "flutter group 5";
+const readUrl = "$os/$folder/read.php";
+const inertUrl =
+    "$os/$folder/insert.php?key=a315372a7b98a75426a7af180d19384b72e0ef51";
+const updateUrl =
+    "$os/$folder/update.php?key=a315372a7b98a75426a7af180d19384b72e0ef51";
+const deleteUrl =
+    "$os/$folder/delete.php?key=a315372a7b98a75426a7af180d19384b72e0ef51";
+const fileFolder = "filefolder";
+const fileUploaderUrl =
+    "$os/$folder/fileupload.php?key=a315372a7b98a75426a7af180d19384b72e0ef51";
+const readImageUrl = "$os/$folder/read_image.php";

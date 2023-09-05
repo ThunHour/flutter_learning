@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/instinct/homework01/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/instinct/homework01/build" />
+      <excludeFolder url="file://$MODULE_DIR$/instinct/homework01/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/clone_LinkedIn/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/clone_LinkedIn/build" />
+      <excludeFolder url="file://$MODULE_DIR$/clone_LinkedIn/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bllinderproject/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bllinderproject/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bllinderproject/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_complete_guide/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_complete_guide/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_complete_guide/build" />
+      <excludeFolder url="file://$MODULE_DIR$/persional_expens/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/persional_expens/build" />
+      <excludeFolder url="file://$MODULE_DIR$/persional_expens/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/instinct/flutter_first_project/build" />
+      <excludeFolder url="file://$MODULE_DIR$/instinct/flutter_first_project/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/instinct/flutter_first_project/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/instinct/async_file/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/instinct/async_file/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/instinct/async_file/build" />
+      <excludeFolder url="file://$MODULE_DIR$/food/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/food/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/food/build" />
+      <excludeFolder url="file://$MODULE_DIR$/instinct/first_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/instinct/first_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/instinct/first_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-final-project/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-final-project/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-final-project/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/rebuild_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/rebuild_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/rebuild_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/assignment2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/assignment2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/assignment2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expense project/expense/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expense project/expense/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expense project/expense/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/myshop/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/myshop/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/myshop/build" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
